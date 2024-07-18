@@ -18,8 +18,9 @@ Install Simulation Packageand Install TurtleBot3 Packages
 
 
 3-Create map and launch navigation
-<img width="812" alt="task3_8" src="https://github.com/user-attachments/assets/bcbc4290-505a-4<img width="815" alt="task3_9" src="https://github.com/user-attachments/assets/f119e834-c7d8-4c0d-8a6d-ea352db4ceef">
-e9f-ae91-51634999fbe9">
+<img width="812" alt="task3_8" src="https://github.com/user-attachments/assets/bcbc4290-505a-4e9f-ae91-51634999fbe9">
+<img width="815" alt="task3_9" src="https://github.com/user-attachments/assets/f119e834-c7d8-4c0d-8a6d-ea352db4ceef">
+
 
 
 
